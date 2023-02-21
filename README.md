@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<div align="center">
+<a href="#"><img width="38%" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" height="auto"/></a>
+</div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Spandan Barve!
 <h3 align="center">I'm a passionate programmer who loves working with the latest bleeding edge tech</h3>
@@ -78,6 +80,8 @@
 
 
 </p>
+
+
  
 ## Views and Followers
 <a href="https://github.com/marsian83?tab=followers"><img src="https://img.shields.io/github/followers/marsian83?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/marsian83)  
