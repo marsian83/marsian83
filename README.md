@@ -12,7 +12,7 @@
  
 - 📫 Reach out to me at my **<a href="mailto:riya1jain567@gmail.com">Email</a>**
  
-- 🧑 More of me at my **[Portfolio Website](https://bit.ly/jriyyya)**
+- 🧑 More of me at my **[Portfolio Website](marsian-portfolio.vercel.app)**
  
 ## 🚀 Languages and Tools:
 
