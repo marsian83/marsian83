@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
  
-- 📫 Reach out to me at my **<a href="mailto:spandan567@gmail.com">Email</a>**
+- 📫 Reach out to me at my **<a href="mailto:contact@marsian.dev">Email</a>**
  
-- 🧑 More of me at my **[Portfolio Website](marsian-portfolio.vercel.app)**
+- 🧑 More of me at my **[Portfolio Website](marsian.dev)**
  
 ## 🚀 Languages and Tools:
 
