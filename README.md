@@ -8,7 +8,7 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **AI/NL Engineering**
+- 🌱 I’m currently learning **AI/ML Engineering*
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
  
