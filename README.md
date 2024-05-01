@@ -11,6 +11,13 @@
 - 💻 I love working on **Open Source Projects**
 - 📫 Reach out to me at my **<a href="mailto:contact@marsian.dev">Email</a>**
 - 🧑 More of me at my **[Portfolio Website](marsian.dev)**
+
+## 🏆 Achievements
+- **Avalanche Frontier Hackathon** - Nest stood a winner among 440+ participants, and 150+ Projects
+- **EthOxford 2024** - Loxel won the main track of Decentralised social media and gaming and two sponser prizes of Solana and Bitso
+- **Web5: Building the Decentralized Web** - FifthPoll won the Best Empowerment & Enablement Inspired App among 1500+ participants
+- **Chainlink spring Hackathon** - AgroSurance won the Chainlink Tech for Good 2nd Prize among 2500+ participants, and 500+ Projects
+- **EthForAll** - Trustpoint won the Best gaming and NFT Track by Mantle
  
 
 ## 📊 My Github Stats
