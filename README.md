@@ -13,6 +13,10 @@
 - 🧑 More of me at my **[Portfolio Website](marsian.dev)**
 
 ## 🏆 Achievements
+
+- **Fraxtal Hackathon 2024** - Build on Fractal - PumpFaxt won the third prize of the Mainnet Track
+- **EduChain Hackathon** - Semester 1 2024 - Echo won the 8th prize and recieved an early offer letter for Open Campus Incubator Programn - I among 4500+ participants and 500+ projects.
+- **Lambda Hack Week** - Maci Keychain won the second prize overall from Lamda Week, 2nd prize from Node101, Design a Tool/Product for User Key Management from Dora Factory.
 - **Avalanche Frontier Hackathon** - Nest stood a winner among 440+ participants, and 150+ Projects
 - **EthOxford 2024** - Loxel won the main track of Decentralised social media and gaming and two sponser prizes of Solana and Bitso
 - **Web5: Building the Decentralized Web** - FifthPoll won the Best Empowerment & Enablement Inspired App among 1500+ participants
