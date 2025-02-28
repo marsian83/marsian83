@@ -9,7 +9,7 @@
  ## 🙋‍♂️ About Me
 - 🎮 I’m currently crunching out games
 - 💻 I love working on **Open Source Projects**
-- 📫 Reach out to me at my **<a href="mailto:contact@marsian.dev">Email</a>**
+- 📫 Reach out to me at my **<a href="mailto:spandan567@gmail.com">Email</a>**
 - 🧑 More of me at my **[Portfolio Website](marsian.dev)**
 
 ## 🏆 Achievements
