@@ -14,6 +14,9 @@
 
 ## 🏆 Achievements
 
+Dorahacks profile - https://dorahacks.io/hacker/marsian83
+Devpost profile - https://devpost.com/marsian83
+
 - **Tron Grand Hackathon S7** - JustInsure won the 3rd prize of the Defi track
 - **Fraxtal Hackathon 2024** - Build on Fractal - PumpFaxt won the third prize of the Mainnet Track
 - **EduChain Hackathon** - Semester 1 2024 - Echo won the 8th prize and recieved an early offer letter for Open Campus Incubator Programn - I among 4500+ participants and 500+ projects.
