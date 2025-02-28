@@ -20,6 +20,7 @@
 - **Lambda Hack Week** - Maci Keychain won the second prize overall from Lamda Week, 2nd prize from Node101, Design a Tool/Product for User Key Management from Dora Factory.
 - **Avalanche Frontier Hackathon** - Nest stood a winner among 440+ participants, and 150+ Projects
 - **EthOxford 2024** - Loxel won the main track of Decentralised social media and gaming and two sponser prizes of Solana and Bitso
+- **EthOxford 2025** - Radio won a bounty of the Flare network
 - **Web5: Building the Decentralized Web** - FifthPoll won the Best Empowerment & Enablement Inspired App among 1500+ participants
 - **Chainlink spring Hackathon** - AgroSurance won the Chainlink Tech for Good 2nd Prize among 2500+ participants, and 500+ Projects
 - **EthForAll** - Trustpoint won the Best gaming and NFT Track by Mantle
