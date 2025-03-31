@@ -2,10 +2,6 @@
 [![Linkedin: Spandan Barve](https://img.shields.io/badge/-Spandan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marsian83/)](https://www.linkedin.com/in/marsian83/)
 ![GitHub followers](https://img.shields.io/github/followers/marsian83?label=Follow&style=social)
 
-
- ## 🙋‍♂️ About Me
-- 🎮 I’m currently crunching out games
-- 💻 I love working on **Open Source Projects**
 - 📫 Reach out to me at my **<a href="mailto:spandan567@gmail.com">Email</a>**
 
 ## 🏆 Achievements
