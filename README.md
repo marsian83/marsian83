@@ -4,15 +4,19 @@
 
 - 📫 Reach out to me at my **<a href="mailto:spandan567@gmail.com">Email</a>**
 
-## 🏆 Achievements
+---
 
 Dorahacks profile - https://dorahacks.io/hacker/marsian83
 
 Devpost profile - https://devpost.com/marsian83
 
+## 🏆 Achievements
+
 - **Tron Grand Hackathon S7** - JustInsure won the 3rd prize of the Defi track
 - **Fraxtal Hackathon 2024** - Build on Fractal - PumpFaxt won the third prize of the Mainnet Track
+- **Google's GSoC 2024** - Contributes to sugarlabs' sugar ecosystem - an OS designed for education and learning
 - **EduChain Hackathon** - Semester 1 2024 - Echo won the 8th prize and recieved an early offer letter for Open Campus Incubator Programn - I among 4500+ participants and 500+ projects.
+- **Linux Foundation's LFX** - Fall 2023 Program, contributed to Vitess (A CNCF Project). 
 - **Lambda Hack Week** - Maci Keychain won the second prize overall from Lamda Week, 2nd prize from Node101, Design a Tool/Product for User Key Management from Dora Factory.
 - **Avalanche Frontier Hackathon** - Nest stood a winner among 440+ participants, and 150+ Projects
 - **EthOxford 2024** - Loxel won the main track of Decentralised social media and gaming and two sponser prizes of Solana and Bitso
